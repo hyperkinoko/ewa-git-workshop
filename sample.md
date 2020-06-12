@@ -1,5 +1,5 @@
 # gitオンラインハンズオン
-- hogeブランチ上で変更を加えました
+ssdfgggjhjh;sjdflgkdjsfgsdfddflg;kj;dj;;master
 
 * 日時: 2020/06/12 21:00-22:30
 

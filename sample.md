@@ -23,7 +23,7 @@
 * git remote
 
 ## ブランチ
-
+ -新しいブランチを作ったよ(master)
 * git branch
 * git checkout
 * git merge

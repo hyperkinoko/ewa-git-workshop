@@ -1,5 +1,5 @@
 # gitオンラインハンズオン
-ssdfgggjhjh;sjdflgkdjsfgsdfddflg;kj;dj;;master
+hogehoge
 
 * 日時: 2020/06/12 21:00-22:30
 
